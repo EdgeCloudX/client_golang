@@ -17,7 +17,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/EdgeCloudX/client_golang/prometheus"
 )
 
 func TestDBStatsCollector(t *testing.T) {

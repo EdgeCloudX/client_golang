@@ -15,7 +15,7 @@
 // conveniently collect process and Go-related metrics.
 package collectors
 
-import "github.com/prometheus/client_golang/prometheus"
+import "github.com/EdgeCloudX/client_golang/prometheus"
 
 // NewBuildInfoCollector returns a collector collecting a single metric
 // "go_build_info" with the constant value 1 and three labels "path", "version",

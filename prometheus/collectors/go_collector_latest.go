@@ -19,8 +19,8 @@ package collectors
 import (
 	"regexp"
 
-	"github.com/prometheus/client_golang/prometheus"
-	"github.com/prometheus/client_golang/prometheus/internal"
+	"github.com/EdgeCloudX/client_golang/prometheus"
+	"github.com/EdgeCloudX/client_golang/prometheus/internal"
 )
 
 var (
